@@ -1,0 +1,5 @@
+<!--pages/details/details.wxml-->
+<rich-text nodes="{{html}}" ></rich-text>
+<view class="ajc">
+<button  type="primary" bindtap="back">返回</button>
+</view>
